@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "306366643081",
+    "project_id": "booing-sports",
+    "storage_bucket": "booing-sports.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306366643081:android:c9e1a6699311e2b0153f58",
+        "android_client_info": {
+          "package_name": "com.example.booking_sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306366643081-2mkascl9bvt03esm0im3ijm9fsar1lt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booking_sports",
+            "certificate_hash": "aca48bf829c13c94f9b055fa2c34d4266526fc87"
+          }
+        },
+        {
+          "client_id": "306366643081-caqpa4bn96qrn11ivgsklmg9le9rfks3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqSnYDFZ4gNJ_pJQX6MIqWdA7fCvkUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306366643081-caqpa4bn96qrn11ivgsklmg9le9rfks3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306366643081:android:922315a75ffb0e06153f58",
+        "android_client_info": {
+          "package_name": "com.example.test123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306366643081-caqpa4bn96qrn11ivgsklmg9le9rfks3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqSnYDFZ4gNJ_pJQX6MIqWdA7fCvkUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306366643081-caqpa4bn96qrn11ivgsklmg9le9rfks3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
